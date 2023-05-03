@@ -3,6 +3,9 @@ Based on <https://forums.plex.tv/t/suggestions-for-the-future-headless-rpi-suppo
 
 Update from https://github.com/malfario/plexamp-rpi-docker 
 
+![alt capture](https://raw.githubusercontent.com/cstaelen/plexampi-docker/master/screenshot/capture.png)
+
+
 ## Install
 
 ```
